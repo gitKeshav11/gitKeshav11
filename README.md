@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="http://pbs.twimg.com/profile_banners/1810322994604249088/1755933580/1500x500"
-       alt="Keshav Upadhyay Twitter Banner" width="100%" style="border-radius: 15px;">
-</div>
-
 <h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Keshav Upadhyay</span></h1>
 <h3 align="center">🚀 Passionate <span style="color:#32cd32;">Backend Developer</span> from India 🇮🇳</h3>
 
