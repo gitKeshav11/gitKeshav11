@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **keshavramramje@gmail.com**
 
-- 📄 Know about my experiences **[Resume]**(https://drive.google.com/file/d/1sloKBmhksPuMZbvyi51dzJozcGO0ra23/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sloKBmhksPuMZbvyi51dzJozcGO0ra23/view?usp=sharing)
 
 - 
 
