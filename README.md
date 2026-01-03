@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Keshav Upadhyay</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<img src="https://cdn.prod.website-files.com/62fd0a29440f2dff557e84ec/66fa6f356f6da21375c40fa0_Hero%20Image%20Article%20(15).png" alt="Coding" align="right" width="400">
+<p align="center">
+  <img src="https://cdn.prod.website-files.com/62fd0a29440f2dff557e84ec/66fa6f356f6da21375c40fa0_Hero%20Image%20Article%20(15).png" alt="Coding" width="500">
+</p>
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" alt="gitkeshav11" /> </p>
 
