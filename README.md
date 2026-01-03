@@ -1,87 +1,42 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Keshav%20Upadhyay&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+<h1 align="center">Hi 👋, I'm Keshav Upadhyay</h1>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
-  <h3>🚀 Backend Developer | Java & Spring Boot Specialist</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" alt="gitkeshav11" /> </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20Views&color=00d2ff&style=flat-square" alt="Views" />
-    <img src="https://img.shields.io/github/followers/gitkeshav11?label=Followers&style=flat-square&color=00d2ff" alt="Followers" />
-  </p>
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitkeshav11" alt="gitkeshav11" /></a> </p>
 
----
+- 🌱 I’m currently learning **Spring Boot Advanced, Java, REST APIs, MongoDB, My Sql, Git & GitHub, Backend System Design**
 
-### 🧑‍💻 About Me
-I am **Keshav Upadhyay**, a passionate Backend Developer from India. I love building high-performance systems and exploring cloud technologies.
+- 👯 I’m looking to collaborate on [Java & Spring Boot Backend Projects](https://github.com/gitKeshav11)
 
-- 🔭 **Current Project:** Working on **Track Back** (Backend optimization & Logic)
-- 🌱 **Learning Path:** Advanced Spring Boot, Microservices & Docker
-- 🛡️ **HackerRank:** [keshavramramje](https://www.hackerrank.com/keshavramramje)
-- 💡 **Goal:** To build scalable solutions that solve real-world problems.
+- 🤝 I’m looking for help with [Microservices, Spring Security & System Design](https://github.com/gitKeshav11)
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/gitKeshav11](https://github.com/gitKeshav11)
 
-### 🛠️ Tech Stack
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring Boot" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP" />
-      <br>GCP
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
+- 📝 I regularly write articles on [Backend Development & Java Projects](Backend Development & Java Projects)
 
----
+- 💬 Ask me about **Java, Spring Boot, REST APIs, MongoDB, MySql, Git, Backend Development**
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gitkeshav11&theme=tokyonight&no-bg=true&column=4" alt="Trophies" />
+- 📫 How to reach me **keshavramramje@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/home](https://drive.google.com/drive/home)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/gitkeshav11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gitkeshav11" height="30" width="40" /></a>
+<a href="https://twitter.com/keshavu2045491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keshavu2045491" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/keshavupadhyayje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshavupadhyayje" height="30" width="40" /></a>
+<a href="https://kaggle.com/keshavupadhyayje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="keshavupadhyayje" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@keshav_upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@keshav_upadhyay" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/keshavramramje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keshavramramje" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/keshavupadhyayje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshavupadhyayje" height="30" width="40" /></a>
 </p>
 
-### 📊 GitHub Stats & Contributions
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gitkeshav11&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitkeshav11&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gitkeshav11&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitkeshav11&show_icons=true&locale=en&layout=compact" alt="gitkeshav11" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitkeshav11&show_icons=true&locale=en" alt="gitkeshav11" /></p>
 
-### 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gitkeshav11/gitkeshav11/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
-### 📬 Connect With Me
-<p align="center">
-<a href="https://linkedin.com/in/keshavupadhyayje" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/keshavu2045491" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.leetcode.com/keshavupadhyayje" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://www.youtube.com/@Keshav_Upadhyay" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="mailto:keshavramramje@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitkeshav11&" alt="gitkeshav11" /></p>
