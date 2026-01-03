@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Keshav Upadhyay</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
+<img src="https://cdn.prod.website-files.com/62fd0a29440f2dff557e84ec/66fa6f356f6da21375c40fa0_Hero%20Image%20Article%20(15).png" alt="Coding" align="right" width="400">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" alt="gitkeshav11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitkeshav11" alt="gitkeshav11" /></a> </p>
-
 - 🌱 I’m currently learning **Spring Boot Advanced, Java, REST APIs, MongoDB, My Sql, Git & GitHub, Backend System Design**
-
-- 👯 I’m looking to collaborate on [Java & Spring Boot Backend Projects](https://github.com/gitKeshav11)
-
-- 🤝 I’m looking for help with [Microservices, Spring Security & System Design](https://github.com/gitKeshav11)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gitKeshav11](https://github.com/gitKeshav11)
 
