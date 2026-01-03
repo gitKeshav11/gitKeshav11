@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on [Java & Spring Boot Backend Projects](https://github.com/gitKeshav11)
 
-- 🤝 I’m looking for help with [Microservices, Spring Security & System Design](https://github.com/gitKeshav11)
+- 🤝 I’m looking for help with [Microservices, Spring Security & System Design]
 
-- 👨‍💻 All of my projects are available at [https://github.com/gitKeshav11](https://github.com/gitKeshav11)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/gitKeshav11)
 
 - 📝 I regularly write articles on [Backend Development & Java Projects](Backend Development & Java Projects)
 
@@ -23,7 +23,9 @@
 
 - 📫 How to reach me **keshavramramje@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/home](https://drive.google.com/drive/home)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sloKBmhksPuMZbvyi51dzJozcGO0ra23/view?usp=sharing)
+
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
