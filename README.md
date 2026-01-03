@@ -17,13 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/gitKeshav11)
 
-- 📝 I regularly write articles on [Backend Development & Java Projects](Backend Development & Java Projects)
+- 📝 I regularly write articles on **[Backend Development & Java Projects]**
 
 - 💬 Ask me about **Java, Spring Boot, REST APIs, MongoDB, MySql, Git, Backend Development**
 
 - 📫 How to reach me **keshavramramje@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sloKBmhksPuMZbvyi51dzJozcGO0ra23/view?usp=sharing)
+- 📄 Know about my experiences **[Resume]**(https://drive.google.com/file/d/1sloKBmhksPuMZbvyi51dzJozcGO0ra23/view?usp=sharing)
 
 - 
 
