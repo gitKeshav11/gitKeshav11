@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Keshav Upadhyay</h1>
 <h3 align="center">A Aspiring Software developer from India</h3>
 
-I'm a **passionate and motivated Aspiring Software Developer** with a strong focus on **Java, Spring Boot, REST APIs, and MongoDB**.  
-I love turning ideas into robust backend applications, exploring new technologies, and solving real-world problems with clean, efficient code.  
-My projects showcase my journey of continuous learning, hands-on practice, and dedication to building scalable and maintainable software solutions.
+💻 I'm a **passionate Aspiring Software Developer** specializing in **Java, Spring Boot, REST APIs, and MongoDB**.  
+🚀 I enjoy transforming ideas into **robust backend applications**, exploring new technologies, and solving real-world problems with **clean and efficient code**.  
+📂 My projects reflect my **hands-on learning journey**, continuous growth, and commitment to building scalable software solutions.
 
 ---
 
@@ -109,15 +109,11 @@ The game includes smooth movement, score tracking, and dynamic gameplay.
 ⭐ Feel free to explore my repositories, check out my projects, and connect with me!
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <!-- Total GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" alt="Keshav's GitHub Stats" />
-
-  <!-- GitHub streak / consistency -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitKeshav11&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&show_icons=true&count_private=true&theme=tokyonight" alt="Keshav's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -126,9 +122,7 @@ The game includes smooth movement, score tracking, and dynamic gameplay.
 </p>
 
 <p align="center">
-  <!-- Optional: Repo Cards -->
+  <!-- Pinned Repo Cards -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitKeshav11&repo=Movie_Collection&theme=tokyonight" alt="Movie Collection Repo" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitKeshav11&repo=Snake_Game&theme=tokyonight" alt="Snake Game Repo" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitKeshav11&repo=Bank_Management&theme=tokyonight" alt="Bank Management Repo" />
 </p>
-
