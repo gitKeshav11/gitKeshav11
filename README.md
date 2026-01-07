@@ -1,10 +1,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" alt="gitkeshav11" /> </p>
 <h1 align="center">Hi 👋, I'm Keshav Upadhyay</h1>
-<h3 align="center">A Aspiring Software developer from India</h3>
 
-💻 I'm a **passionate Aspiring Software Developer** specializing in **Java, Spring Boot, REST APIs, and MongoDB**.  
-🚀 I enjoy transforming ideas into **robust backend applications**, exploring new technologies, and solving real-world problems with **clean and efficient code**.  
-📂 My projects reflect my **hands-on learning journey**, continuous growth, and commitment to building scalable software solutions.
+<p align="center">
+
+**Welcome to my coding space!**  
+
+I am a **passionate Aspiring Software Developer** specializing in **Java, Spring Boot, REST APIs, and MongoDB**.  
+I enjoy transforming ideas into **robust backend applications**, exploring new technologies, and solving real-world problems with **clean and efficient code**.  
+
+My projects showcase a **hands-on learning journey**, continuous growth, and commitment to building **scalable and maintainable software solutions**.
+
+</p>
 
 ---
 
@@ -109,20 +115,3 @@ The game includes smooth movement, score tracking, and dynamic gameplay.
 ⭐ Feel free to explore my repositories, check out my projects, and connect with me!
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Total GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&show_icons=true&count_private=true&theme=tokyonight" alt="Keshav's GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Top Languages used -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Pinned Repo Cards -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitKeshav11&repo=Movie_Collection&theme=tokyonight" alt="Movie Collection Repo" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitKeshav11&repo=Snake_Game&theme=tokyonight" alt="Snake Game Repo" />
-</p>
