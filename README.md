@@ -1,16 +1,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" alt="gitkeshav11" /> </p>
 <h1 align="center">Hi 👋, I'm Keshav Upadhyay</h1>
 
-<p align="center">
+<div align="center">
 
-**Welcome to my coding space!**  
+### Welcome to my Coding Space
 
-I am a **passionate Aspiring Software Developer** specializing in **Java, Spring Boot, REST APIs, and MongoDB**.  
-I enjoy transforming ideas into **robust backend applications**, exploring new technologies, and solving real-world problems with **clean and efficient code**.  
+I am a **passionate Aspiring Software Developer** with a strong focus on  
+**Java, Spring Boot, REST APIs, and MongoDB**.
 
-My projects showcase a **hands-on learning journey**, continuous growth, and commitment to building **scalable and maintainable software solutions**.
+I enjoy building **robust backend applications**, exploring new technologies,  
+and solving real-world problems using **clean and efficient code**.
 
-</p>
+My projects represent a **hands-on learning journey**, continuous growth,  
+and a commitment to building **scalable and maintainable software solutions**.
+
+</div>
+
 
 ---
 
