@@ -1,13 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" alt="gitkeshav11" /> </p>
-<div align="center">
-  <p style="font-size:32px; font-weight:bold;">
-    Hi 👋, I'm Keshav Upadhyay
-  </p>
-  <p style="font-size:16px;">
-    Aspiring Software Developer | Backend Enthusiast
-  </p>
-</div>
-
+<p align="center"><b>Hi 👋, I'm Keshav Upadhyay</b></p>
+<p align="center">Aspiring Software Developer | Backend Enthusiast</p>
 
 <h2 align="center">Welcome to my Coding Space</h2>
 
