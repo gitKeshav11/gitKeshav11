@@ -4,14 +4,11 @@
 
 <h5 align="center">Welcome to my Coding Space</h5>
 
-I am a **passionate Aspiring Software Developer** with a strong focus on  
-**Java, Spring Boot, REST APIs, and MongoDB**.
+I am a **passionate Aspiring Software Developer** with a strong focus on **Java, Spring Boot, REST APIs, and MongoDB**.
 
-I enjoy building **robust backend applications**, exploring new technologies,  
-and solving real-world problems using **clean and efficient code**.
+I enjoy building **robust backend applications**, exploring new technologies, and solving real-world problems using **clean and efficient code**.
 
-My projects represent a **hands-on learning journey**, continuous growth,  
-and a commitment to building **scalable and maintainable software solutions**.
+My projects represent a **hands-on learning journey**, continuous growth, and a commitment to building **scalable and maintainable software solutions**.
 
 
 
