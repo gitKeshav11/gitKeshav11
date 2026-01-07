@@ -112,9 +112,3 @@ The game includes smooth movement, score tracking, and dynamic gameplay.
 
 ---
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Backend+Enthusiast;Java+%7C+Spring+Boot+%7C+MongoDB;Learning+Every+Day+🚀" />
-</p>
-
