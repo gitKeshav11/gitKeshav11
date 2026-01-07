@@ -1,27 +1,24 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" alt="gitkeshav11" /> </p>
 <h1 align="center">Hi 👋, I'm Keshav Upadhyay</h1>
 <h3 align="center">A Aspiring Software developer from India</h3>
 
 I'm a passionate and motivated **Aspiring Software Developer** specializing in **Java, Spring Boot, REST APIs, and MongoDB**.  
 I enjoy building backend applications, learning new technologies, and solving real-world problems through code.
-
 My projects reflect my journey of continuous learning and hands-on practice in software development.
 ---
 
 ## 🚀 What Drives Me
 
-- 💻 Learning new technologies step by step 
-- 🧠 Improving problem-solving & coding skills  
-- 🤝 Growing through collaboration and open-source
+- 💻 Exploring and mastering new technologies one step at a time  
+- 🧠 Enhancing my problem-solving and coding skills through practice  
+- 🤝 Contributing to open-source and learning through collaboration  
+- 🎯 Building projects that challenge me and improve my skills  
 
 ---
 
-## 🧰 Languages and Tools:( `Skills` )
+## 🧰 Languages and Tools:( Skills )
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" alt="gitkeshav11" /> </p>
 
 ---
 
@@ -97,17 +94,6 @@ The game includes smooth movement, score tracking, and dynamic gameplay.
 <a href="https://www.youtube.com/c/@keshav_upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@keshav_upadhyay" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/keshavramramje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keshavramramje" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/keshavupadhyayje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshavupadhyayje" height="30" width="40" /></a>
-</p>
-<p align="left">
-  <!-- existing links -->
-  <a href="mailto:keshavupadhyayje@gmail.com" target="blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-         alt="keshavupadhyayje@gmail.com"
-         height="30"
-         width="40" />
-  </a>
-</p>
 
 ---
 
@@ -120,4 +106,28 @@ The game includes smooth movement, score tracking, and dynamic gameplay.
 ---
 ### Thanks for visiting my profile 😊  
 ⭐ Feel free to explore my repositories, check out my projects, and connect with me!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Total GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" alt="Keshav's GitHub Stats" />
+
+  <!-- GitHub streak / consistency -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitKeshav11&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Top Languages used -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Optional: Repo Cards -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitKeshav11&repo=Movie_Collection&theme=tokyonight" alt="Movie Collection Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitKeshav11&repo=Snake_Game&theme=tokyonight" alt="Snake Game Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitKeshav11&repo=Bank_Management&theme=tokyonight" alt="Bank Management Repo" />
+</p>
 
