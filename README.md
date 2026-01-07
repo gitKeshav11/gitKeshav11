@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Keshav Upadhyay</h1>
 <h3 align="center">A Aspiring Software developer from India</h3>
 
-I'm a passionate and motivated **Aspiring Software Developer** specializing in **Java, Spring Boot, REST APIs, and MongoDB**.  
-I enjoy building backend applications, learning new technologies, and solving real-world problems through code.
-My projects reflect my journey of continuous learning and hands-on practice in software development.
+I'm a **passionate and motivated Aspiring Software Developer** with a strong focus on **Java, Spring Boot, REST APIs, and MongoDB**.  
+I love turning ideas into robust backend applications, exploring new technologies, and solving real-world problems with clean, efficient code.  
+My projects showcase my journey of continuous learning, hands-on practice, and dedication to building scalable and maintainable software solutions.
+
 ---
 
 ## 🚀 What Drives Me
