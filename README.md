@@ -2,12 +2,8 @@
 <h1 align="center">Hi 👋, I'm Keshav Upadhyay</h1>
 <p align="center"><b>Aspiring Software Developer | Backend Enthusiast</b></p>
 
-<h5 align="center">Welcome to my Coding Space</h5>
-
-I am a **passionate Aspiring Software Developer** with a strong focus on **Java, Spring Boot, REST APIs, and MongoDB**.
-
+Welcome to my Coding Space. I am a **passionate Aspiring Software Developer** with a strong focus on **Java, Spring Boot, REST APIs, and MongoDB**.
 I enjoy building **robust backend applications**, exploring new technologies, and solving real-world problems using **clean and efficient code**.
-
 My projects represent a **hands-on learning journey**, continuous growth, and a commitment to building **scalable and maintainable software solutions**.
 
 
