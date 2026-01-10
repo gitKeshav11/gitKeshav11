@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" alt="gitkeshav11" /> </p>
 <h1 align="center">Hi 👋, I'm Keshav Upadhyay</h1>
 <p align="center"><b>Aspiring Software Developer | Backend Enthusiast</b></p>
 
@@ -50,10 +49,12 @@ My projects represent a **hands-on learning journey**, continuous growth, and a 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-
 ---
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" alt="gitkeshav11" /> </p>
+---
+## 📈 Contribution Graph
+![Keshav Upadhyay's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gitkeshav11&theme=react-dark)
+---
 ## 🔧 Featured Projects
 
 <details>
