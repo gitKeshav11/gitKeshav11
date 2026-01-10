@@ -5,8 +5,6 @@ Welcome to my Coding Space. I am a **passionate Aspiring Software Developer** wi
 I enjoy building **robust backend applications**, exploring new technologies, and solving real-world problems using **clean and efficient code**.
 My projects represent a **hands-on learning journey**, continuous growth, and a commitment to building **scalable and maintainable software solutions**.
 
-
-
 ---
 
 ## 🚀 What Drives Me
@@ -49,12 +47,25 @@ My projects represent a **hands-on learning journey**, continuous growth, and a 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" alt="gitkeshav11" /> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" alt="gitkeshav11" />
+</p>
+
 ---
+
 ## 📈 Contribution Graph
-![Keshav Upadhyay's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gitkeshav11&theme=react-dark)
+
+<div align="center">
+
+![Keshav Upadhyay's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gitkeshav11&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
+
+</div>
+
 ---
+
 ## 🔧 Featured Projects
 
 <details>
@@ -80,7 +91,7 @@ This project focuses on clean backend structure, scalability, and best practices
 A **Bank Management System** built using **Core Java** to simulate and manage basic banking operations such as account creation, deposits, withdrawals, and balance checks.  
 This project demonstrates Java fundamentals, Object-Oriented Programming (OOP), and simple user-interaction logic.
 
-**Tech Stack:** Java, OOP, (Optional: JDBC/MySQL if used)  
+**Tech Stack:** Java, OOP  
 
 #### ✨ Features
 - Create/Delete bank accounts  
@@ -93,8 +104,7 @@ This project demonstrates Java fundamentals, Object-Oriented Programming (OOP), 
 <details>
 <summary>🐍 Snake Game</summary>
 
-A classic **Snake Game** built in **Java** using **Swing GUI**, designed to demonstrate object-oriented programming (OOP), event handling, and basic game development concepts.  
-The game includes smooth movement, score tracking, and dynamic gameplay.
+A classic **Snake Game** built in **Java** using **Swing GUI**, designed to demonstrate object-oriented programming (OOP), event handling, and basic game development concepts.
 
 **Tech Stack:** Java, Swing  
 
@@ -103,7 +113,6 @@ The game includes smooth movement, score tracking, and dynamic gameplay.
 - Random food generation  
 - Score tracking system  
 - Snake grows as it eats food  
-- Clean Object-Oriented Design  
 
 </details>
 
@@ -111,33 +120,24 @@ The game includes smooth movement, score tracking, and dynamic gameplay.
 
 ## 🎯 Goals
 
-- 💼 Secure a meaningful **software development internship** to gain real-world experience  
-- 🌱 Enhance and master my skills in **Java, Spring Boot, REST APIs, and React**  
-- 🚀 Grow into a confident and skilled **Backend/Full-stack Developer**
+- 💼 Secure a meaningful **software development internship**  
+- 🌱 Master **Java, Spring Boot, REST APIs, and React**  
+- 🚀 Grow into a confident **Backend / Full‑Stack Developer**
 
 ---
 
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://twitter.com/keshavu2045491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keshavu2045491" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/keshavupadhyayje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshavupadhyayje" height="30" width="40" /></a>
-<a href="https://kaggle.com/keshavupadhyayje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="keshavupadhyayje" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Keshav_Upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@keshav_upadhyay" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/keshavramramje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keshavramramje" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/keshavupadhyayje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshavupadhyayje" height="30" width="40" /></a>
+<a href="https://twitter.com/keshavu2045491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/keshavupadhyayje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://kaggle.com/keshavupadhyayje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Keshav_Upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/keshavramramje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/keshavupadhyayje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+</p>
 
 ---
 
-##  Fun Facts
-- 💻 I enjoy turning confusion into clarity ..  
-- 🤔 Every bug is a new learning opportunity  
-- 🐍 I love experimenting with code — even if it means breaking things sometimes  
-- 🎮 Gaming & coding fuel my problem-solving creativity  
-
----
-### Thanks for visiting my profile 😊  
-⭐ Feel free to explore my repositories, check out my projects, and connect with me!
-
----
-
+### Thanks for visiting my profile 😊
+⭐ Feel free to explore my repositories and connect with me!
