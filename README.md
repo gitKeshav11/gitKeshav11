@@ -2,8 +2,8 @@
 <p align="center"><b>Aspiring Software Developer | Backend Enthusiast</b></p>
 
 Welcome to my Coding Space!
-I’m an Aspiring Software Developer who thrives on the logic of Java, the power of Spring Boot, and the flexibility of Database.
-Whether I'm designing REST APIs or optimizing a database schema, my goal is always the same: clean code and scalable solutions. This space is a living record of my learning journey—built one commit at a time.
+I’m an **Aspiring Software Developer** who thrives on the logic of **Java**, the power of **Spring Boot**, and the flexibility of **Database**.
+Whether I'm designing **REST APIs** or optimizing a database schema, my goal is always the same: clean code and scalable solutions. This space is a living record of my learning journey—built one commit at a time.
 
 
 ---
@@ -49,10 +49,21 @@ Whether I'm designing REST APIs or optimizing a database schema, my goal is alwa
   </a>
 </p>
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" alt="gitkeshav11" /> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" alt="gitkeshav11" />
+</p>
+
 ---
+
 ## 📈 Contribution Graph
-![Keshav Upadhyay's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gitkeshav11&theme=react-dark)
+
+<div align="center">
+
+![Keshav Upadhyay's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gitkeshav11&theme=tokyo-night&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff&area=true&hide_border=true)
+
+</div>
+
 ---
 ## 🔧 Featured Projects
 
