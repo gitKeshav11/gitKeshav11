@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Keshav Upadhyay</h1>
-<p align="center"><b>Aspiring Software Developer | Backend Enthusiast</b></p>
+<p align="center"><b>Backend-Focused Software Developer | Turning Logic into Scalable Systems</b></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" alt="gitkeshav11" />
+  <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=1f6feb&style=flat" alt="gitkeshav11" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitkeshav11&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -13,11 +17,11 @@
 
 ## 🌟 About Me
 
-Welcome to my coding space! I am a **passionate Aspiring Software Developer** with a strong focus on  
-**Java, Spring Boot, REST APIs, and MongoDB**.
+🚀 **I build clean, scalable backend systems and enjoy solving real-world problems with Java and modern frameworks.**  
 
-I enjoy building **robust backend systems**, exploring new technologies, and solving real-world problems with  
-**clean, scalable, and efficient code**.
+I am a passionate **Aspiring Software Developer** with a strong focus on  
+**Java, Spring Boot, REST APIs, and Databases**.  
+I believe in writing **maintainable code**, learning continuously, and growing through hands-on projects.
 
 ---
 
@@ -25,7 +29,7 @@ I enjoy building **robust backend systems**, exploring new technologies, and sol
 
 <div align="center">
 
-![Keshav Upadhyay's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gitkeshav11&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
+![Keshav Upadhyay's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gitkeshav11&theme=tokyo-night&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -41,7 +45,7 @@ I enjoy building **robust backend systems**, exploring new technologies, and sol
 
 ---
 
-## 🧰 Languages and Tools
+## 🧰 Languages & Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
@@ -88,7 +92,7 @@ I enjoy building **robust backend systems**, exploring new technologies, and sol
 
 - 💼 Secure a **software development internship**
 - 🌱 Master **Java, Spring Boot, REST APIs, React**
-- 🚀 Grow into a confident **Backend / Full‑Stack Developer**
+- 🚀 Grow into a confident **Backend / Full-Stack Developer**
 
 ---
 
@@ -103,5 +107,5 @@ I enjoy building **robust backend systems**, exploring new technologies, and sol
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile — let's build something amazing together!
+✨ Thanks for visiting my profile — let’s build something impactful together!
 </p>
