@@ -58,7 +58,6 @@ This space is a living record of my learning journey — built **one commit at a
     height="165"
   />
 </p>
-
 <p align="center">
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&theme=default&hide_border=false"
@@ -72,7 +71,6 @@ This space is a living record of my learning journey — built **one commit at a
     height="165"
   />
 </p>
----
 
 ## 🔧 Featured Projects
 
