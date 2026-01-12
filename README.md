@@ -60,14 +60,13 @@ This space is a living record of my learning journey — built **one commit at a
 ---
 
 ## 🔧 Featured Projects
+
 <details>
 <summary>🎬 Movie Collection API</summary>
 
 A **backend RESTful API** built using the **ERA (Entity–Repository–API)** architecture to manage and organize movie data efficiently.
 
 **Tech Stack:** Java, Spring Boot, MongoDB, Maven, Lombok  
-
----
 
 **Features**
 - ERA-based architecture  
@@ -98,7 +97,7 @@ A **Core Java** based system simulating real-world banking operations.
 
 A classic **Snake Game** built using **Java Swing**.
 
-**Tech Stack:** Java, Swing
+**Tech Stack:** Java, Swing  
 
 **Features**
 - Keyboard-based movement  
@@ -107,6 +106,7 @@ A classic **Snake Game** built using **Java Swing**.
 - OOP-based design  
 
 </details>
+
 
 ---
 
