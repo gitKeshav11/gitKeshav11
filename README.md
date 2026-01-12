@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Keshav Upadhyay</h1>
 <p align="center"><b> Software Developer | Open Source Contributor @OSCG26 & ECWoC26 </b></p>
-<p align="center">
-  
-**Welcome to my Coding Space!**
 
+<p align="center">
+Welcome to my Coding Space!
 </p>
 
 I’m an **Software Developer** who thrives on the logic of **Java**, the power of **Spring Boot**, and the flexibility of **Databases**.  
