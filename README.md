@@ -35,23 +35,25 @@ This space is a living record of my learning journey — built **one commit at a
 </p>
 
 ---
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitkeshav11&theme=tokyo-night&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff&area=true&hide_border=true"/>
 </p>
----
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gitKeshav11&theme=default&hide_border=false&include_all_commits=true&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&theme=default&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
 
 ## 🔧 Featured Projects
 
@@ -61,6 +63,8 @@ This space is a living record of my learning journey — built **one commit at a
 A **backend RESTful API** built using the **ERA (Entity–Repository–API)** architecture to manage and organize movie data efficiently.
 
 **Tech Stack:** Java, Spring Boot, MongoDB, Maven, Lombok  
+
+---
 
 **Features**
 - ERA-based architecture  
@@ -91,7 +95,7 @@ A **Core Java** based system simulating real-world banking operations.
 
 A classic **Snake Game** built using **Java Swing**.
 
-**Tech Stack:** Java, Swing  
+**Tech Stack:** Java, Swing
 
 **Features**
 - Keyboard-based movement  
