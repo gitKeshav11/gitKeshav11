@@ -8,7 +8,6 @@ Welcome to my Coding Space!
 I’m an **Software Developer** who thrives on the logic of **Java**, the power of **Spring Boot**, and the flexibility of **Databases**.  
 Whether I'm designing **REST APIs** or optimizing a database schema, my goal is always the same: **clean code and scalable solutions**.  
 This space is a living record of my learning journey — built **one commit at a time**.
-**one commit at a time**.
 
 ---
 
