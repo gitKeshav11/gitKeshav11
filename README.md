@@ -65,6 +65,17 @@ Whether I'm designing **REST APIs** or optimizing a database schema, my goal is 
 </div>
 
 ---
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=gitKeshav11&theme=default&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&theme=default&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
 ## 🔧 Featured Projects
 
 <details>
