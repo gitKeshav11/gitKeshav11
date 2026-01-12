@@ -49,22 +49,14 @@ This space is a living record of my learning journey — built **one commit at a
 </p>
 
 ---
-## 📊 GitHub Stats
 
-<div align="center">
+# 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&theme=default&hide_border=true&include_all_commits=true" />
+![](https://github-readme-stats.vercel.app/api?username=gitKeshav11&theme=default&hide_border=false&include_all_commits=true&count_private=false)
 
-<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&theme=default&hide_border=false)
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&theme=default&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&theme=default&hide_border=true&layout=compact" />
-
-</div>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## 🔧 Featured Projects
