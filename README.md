@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Keshav Upadhyay</h1>
-<p align="center"><b>Aspiring Software Developer | Backend Enthusiast</b></p>
-
+<p align="center"><b> Software Developer | Open Source Contributor @OSCG26 & ECWoC26 </b></p>
 <p align="center">
-**Welcome to my Coding Space! **
+**Welcome to my Coding Space!**
 </p>
-
-I’m an **Aspiring Software Developer** who thrives on the logic of **Java**, the power of **Spring Boot**, and the flexibility of **Databases**.  
+I’m an **Software Developer** who thrives on the logic of **Java**, the power of **Spring Boot**, and the flexibility of **Databases**.  
 Whether I'm designing **REST APIs** or optimizing a database schema, my goal is always the same: **clean code and scalable solutions**.  
 This space is a living record of my learning journey — built **one commit at a time**.
 **one commit at a time**.
-
 ---
 
 ## 🚀 What Drives Me
