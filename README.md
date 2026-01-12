@@ -50,7 +50,7 @@ This space is a living record of my learning journey — built **one commit at a
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=gitKeshav11&theme=default&hide_border=false&include_all_commits=true&count_private=false)
 
