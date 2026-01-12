@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshav Upadhyay</h1>
-<p align="center" style="font-size: 20px; font-weight: 700;">
+<p align="center" style="font-size: 50px; font-weight: 700;">
 Aspiring Software Developer | Backend Enthusiast
 </p>
 
