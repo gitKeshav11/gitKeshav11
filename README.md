@@ -4,11 +4,6 @@
 <p align="center">
 Welcome to my Coding Space!
 </p>
-
-I’m an **Software Developer** who thrives on the logic of **Java**, the power of **Spring Boot**, and the flexibility of **Databases**.  
-Whether I'm designing **REST APIs** or optimizing a database schema, my goal is always the same: **clean code and scalable solutions**.  
-This space is a living record of my learning journey — built **one commit at a time**.
-
 <p style="text-align: justify; line-height: 1.35;">
 I’m an <b>Aspiring Software Developer</b> who thrives on the logic of <b>Java</b>, the power of <b>Spring Boot</b>, and the flexibility of <b>Databases</b>.
 Whether I'm designing <b>REST APIs</b> or optimizing a database schema, my goal is always the same: <b>clean code and scalable solutions</b>.
