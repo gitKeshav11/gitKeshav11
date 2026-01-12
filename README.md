@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshav Upadhyay</h1>
-<p align="center" style="font-size: 50px; font-weight: 700;">
+<h2 align="center">
 Aspiring Software Developer | Backend Enthusiast
-</p>
+</h2>
 
 <p style="text-align: justify; line-height: 1.35;">
 Welcome to my Coding Space! I’m an <b>Aspiring Software Developer</b> who thrives on the logic of <b>Java</b>, the power of <b>Spring Boot</b>, and the flexibility of <b>Databases</b>.
