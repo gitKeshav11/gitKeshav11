@@ -33,6 +33,8 @@ This space is a living record of my learning journey — built <b>one commit at 
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
 </p>
 
+---
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gitkeshav11&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
@@ -50,6 +52,7 @@ This space is a living record of my learning journey — built <b>one commit at 
   <img src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&cache_seconds=1800" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&cache_seconds=1800" height="165"/>
 </p>
+---
 
 ## 🔧 Featured Projects
 <details>
