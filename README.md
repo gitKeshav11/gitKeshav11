@@ -60,7 +60,7 @@ This space is a living record of my learning journey — built <b>one commit at 
 
 A **full-stack food ordering application** built to provide a seamless user experience for browsing, ordering, and managing food items.
 
-**Repository:** <a href="https://github.com/gitKeshav11/Sanatan_Food-Full_Stack_Project.git">https://github.com/gitKeshav11/Sanatan_Food-Full_Stack_Project</a>
+**Repository:** <a href="https://github.com/gitKeshav11/Sanatan_Food-Full_Stack_Project.git">Sanatan Food</a>
 
 **Tech Stack:**  
 - Frontend: HTML, CSS, JavaScript  
