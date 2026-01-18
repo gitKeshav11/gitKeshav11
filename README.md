@@ -57,6 +57,26 @@ This space is a living record of my learning journey — built <b>one commit at 
 </p>
 
 ## 🔧 Featured Projects
+<details>
+<summary>🍔 Sanatan Food – Full Stack Project</summary>
+
+A **full-stack food ordering application** built to provide a seamless user experience for browsing, ordering, and managing food items.
+
+**Repository:** <a href="https://github.com/gitKeshav11/Sanatan_Food-Full_Stack_Project.git">https://github.com/gitKeshav11/Sanatan_Food-Full_Stack_Project</a>
+
+**Tech Stack:**  
+- Frontend: HTML, CSS, JavaScript  
+- Backend: (mention if used e.g., Node.js/Spring Boot, etc.)  
+- Database: (mention DB if used, e.g., MySQL/MongoDB)
+
+**Features**
+- User registration & login  
+- Browse food categories & items  
+- Add to cart & place orders  
+- Responsive UI  
+- Clean full-stack architecture
+
+</details>
 
 <details>
 <summary>🎬 Movie Collection API</summary>
