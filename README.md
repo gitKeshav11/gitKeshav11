@@ -149,3 +149,9 @@ A classic **Snake Game** built using **Java Swing**.
 ### ⭐ Thanks for visiting my profile 😊  
 Feel free to explore my repositories and connect with me!
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitKeshav11" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact" height="165"/>
+</p>
