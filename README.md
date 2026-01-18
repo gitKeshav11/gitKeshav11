@@ -50,20 +50,25 @@ This space is a living record of my learning journey — built <b>one commit at 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&theme=default&hide_border=true&include_all_commits=true" 
-    height="170"
-  />
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&theme=default&hide_border=true" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=default&hide_border=true" 
-    height="170"
-  />
-</p>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&theme=default&hide_border=true&include_all_commits=true" 
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&theme=default&hide_border=true" 
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=default&hide_border=true" 
+      />
+    </td>
+  </tr>
+</table>
 
 
 
