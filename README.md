@@ -56,6 +56,27 @@ This space is a living record of my learning journey — built <b>one commit at 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact" height="165"/>
 </p>
 ----
+## 📊 GitHub Stats
+
+<table width="100%">
+  <!-- Row 1 -->
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&theme=github_dark&hide_border=true&include_all_commits=true" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&theme=github-dark&hide_border=true" />
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td colspan="2" align="center">
+      <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=github_dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🔧 Featured Projects
 
