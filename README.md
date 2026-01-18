@@ -53,10 +53,7 @@ This space is a living record of my learning journey — built <b>one commit at 
   <img src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&cache_seconds=1800" height="165"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&cache_seconds=1800" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&cache_seconds=1800" height="165"/>
-</p>>
-
-
-
+</p>
 
 ## 🔧 Featured Projects
 <details>
