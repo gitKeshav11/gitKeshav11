@@ -57,19 +57,11 @@ This space is a living record of my learning journey — built <b>one commit at 
   <img src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&cache_seconds=0" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&cache_seconds=0" height="165"/>
 </p>
-<p align="center">
-  <!-- Left Logo -->
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
 
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&cache_seconds=0" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&cache_seconds=0" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&cache_seconds=0" height="165"/>
-
-  <!-- Right Logo -->
-  <img src="https://skillicons.dev/icons?i=java" height="40"/>
-</p>
-
+![Stars](https://img.shields.io/github/stars/gitKeshav11?style=for-the-badge&logo=starship&color=yellow)
+![Issues](https://img.shields.io/github/issues/gitKeshav11/MediMate-Your-Digital-Hospital-Management-System?style=for-the-badge&logo=github&color=blue)
+![PRs](https://img.shields.io/github/issues-pr/gitKeshav11/MediMate-Your-Digital-Hospital-Management-System?style=for-the-badge&logo=git&color=green)
+![Contributions](https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=github)
 
 ## 🔧 Featured Projects
 <details>
