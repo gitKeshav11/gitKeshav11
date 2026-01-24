@@ -68,6 +68,28 @@ This space is a living record of my learning journey — built <b>one commit at 
     height="165"
   />
 </p>
+---
+<h2 align="center">✨ GitHub Performance Dashboard ✨</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=FBBF24&text_color=E5E7EB&cache_seconds=1800" 
+    height="165"
+  />
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&theme=tokyonight&hide_border=true&ring=38BDF8&fire=FBBF24&currStreakLabel=E5E7EB&cache_seconds=1800" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=E5E7EB&cache_seconds=1800" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <i>⚡ Clean Code • 🚀 Consistent Growth • 💻 Passionate Developer</i>
+</p>
+---
 
 ## 🔧 Featured Projects
 <details>
