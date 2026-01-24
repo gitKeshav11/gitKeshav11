@@ -52,69 +52,11 @@ This space is a living record of my learning journey — built <b>one commit at 
   <img src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&cache_seconds=1800" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&cache_seconds=1800" height="165"/>
 </p>
-
-## 📊 GitHub Stats
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="165"
-  />
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&cache_seconds=0" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&cache_seconds=0" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&cache_seconds=0" height="165"/>
 </p>
----
-<h2 align="center">✨ GitHub Performance Dashboard ✨</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=FBBF24&text_color=E5E7EB&cache_seconds=1800" 
-    height="165"
-  />
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&theme=tokyonight&hide_border=true&ring=38BDF8&fire=FBBF24&currStreakLabel=E5E7EB&cache_seconds=1800" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=E5E7EB&cache_seconds=1800" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <i>⚡ Clean Code • 🚀 Consistent Growth • 💻 Passionate Developer</i>
-</p>
----
-<h2 align="center" style="color:#1F6FEB;">
-  ⚡ GitHub Activity & Performance
-</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&theme=transparent&hide_border=true&title_color=1F6FEB&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&cache_seconds=1800" 
-    height="165"
-  />
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&theme=github-dark-blue&hide_border=true&ring=1F6FEB&fire=58A6FF&currStreakLabel=C9D1D9&sideNums=58A6FF&cache_seconds=1800" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&hide_border=true&title_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117&cache_seconds=1800" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <sub style="color:#8B949E;">
-    📈 Consistency • ⚙️ Problem Solving • 🚀 Growth Mindset
-  </sub>
-</p>
----
 
 ## 🔧 Featured Projects
 <details>
