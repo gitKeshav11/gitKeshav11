@@ -66,6 +66,13 @@ This space is a living record of my learning journey — built <b>one commit at 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitKeshav11&show_icons=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gitKeshav11&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=default)
 
 
 ## 📊 GitHub Stats
