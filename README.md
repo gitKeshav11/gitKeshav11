@@ -58,6 +58,15 @@ This space is a living record of my learning journey — built <b>one commit at 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=default&cache_seconds=1800" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&show_icons=true&count_private=true&theme=github_dark&v=7" height="165"/>
+  
+  <img src="https://streak-stats.demolab.com?user=gitKeshav11&theme=default&ring=1f6feb&fire=1f6feb&currStreakNum=1f6feb&sideNums=1f6feb&currStreakLabel=1f6feb&dates=1f6feb&v=7" height="165"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=github_dark&v=7" height="165"/>
+</p>
+
+
 ---
 
 ## 🔧 Featured Projects
