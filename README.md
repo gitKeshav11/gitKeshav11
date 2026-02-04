@@ -53,38 +53,23 @@ This space is a living record of my learning journey — built <b>one commit at 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=github_dark" height="165"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&show_icons=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gitKeshav11&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</p>
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&show_icons=true&count_private=true&theme=github_dark&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&show_icons=true&count_private=true&theme=github_light&hide_border=true&cache_seconds=1800" 
     height="165"
   />
   <img 
-    src="https://streak-stats.demolab.com?user=gitKeshav11&theme=github_dark&hide_border=true" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=github_dark&hide_border=true" 
+    src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&theme=github_light&hide_border=true&cache_seconds=1800" 
     height="165"
   />
 </p>
 
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://nirzak-streak-stats.vercel.app/?user=gitKeshav11&theme=tokyonight&hide_border=true" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=tokyonight&hide_border=true" height="150"/> </p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=github_light&hide_border=true&cache_seconds=1800" 
+    height="150"
+  />
+</p>
 
 ---
 
