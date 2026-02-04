@@ -52,44 +52,12 @@ This space is a living record of my learning journey — built <b>one commit at 
   <img src="https://streak-stats.demolab.com?user=gitKeshav11&theme=github_dark" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=github_dark" height="165"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&show_icons=true&count_private=true&theme=github_light" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=gitKeshav11&theme=github_light" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=github_light" height="165"/>
+</p>
 
-<picture>
-  <!-- Dark mode -->
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=gitKeshav11&show_icons=true&count_private=true&theme=github_dark&hide_border=true" 
-    media="(prefers-color-scheme: dark)"
-  />
-  <!-- Light mode -->
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=gitKeshav11&show_icons=true&count_private=true&theme=github_light&hide_border=true" 
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&show_icons=true" />
-</picture>
-
-<picture>
-  <source 
-    srcset="https://streak-stats.demolab.com?user=gitKeshav11&theme=github_dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://streak-stats.demolab.com?user=gitKeshav11&theme=github_light&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://streak-stats.demolab.com?user=gitKeshav11" />
-</picture>
-
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=github_dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=github_light&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact" />
-</picture>
 
 ---
 
