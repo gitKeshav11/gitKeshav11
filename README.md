@@ -55,10 +55,16 @@ This space is a living record of my learning journey — built <b>one commit at 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&show_icons=true&count_private=true&theme=tokyonight&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=000000" height="165"/>
-  
   <img src="https://streak-stats.demolab.com?user=gitKeshav11&theme=dark&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&background=000000&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff" height="165"/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=tokyonight&title_color=ff8c00&text_color=ffffff&bg_color=000000" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitKeshav11&show_icons=true&count_private=true&theme=default&title_color=ff8c00&icon_color=ff8c00&text_color=000000&bg_color=ffffff" height="165"/>
+  
+  <img src="https://streak-stats.demolab.com?user=gitKeshav11&theme=default&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&background=ffffff&sideNums=000000&currStreakNum=000000&dates=000000" height="165"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKeshav11&layout=compact&theme=default&title_color=ff8c00&text_color=000000&bg_color=ffffff" height="165"/>
 </p>
 
 
