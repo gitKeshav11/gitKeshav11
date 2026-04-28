@@ -72,25 +72,28 @@ This space is a living record of my learning journey — built <b>one commit at 
 
 ## 🔧 Featured Projects
 <details>
-<summary>🍔 Sanatan Food – Full Stack Project</summary>
+<summary>🚀 BuildWithUs – Full Stack Platform</summary>
 
-A **full-stack food ordering application** built to provide a seamless user experience for browsing, ordering, and managing food items.
+A **modern full-stack platform** designed to connect developers, enable collaboration, and provide scalable backend services with secure authentication.
 
-**Repository:** <a href="https://github.com/gitKeshav11/Sanatan_Food-Full_Stack_Project.git">Sanatan Food</a>
+**Repository:** <a href="https://github.com/gitKeshav11/BuildWithUs">BuildWithUs</a>
 
 **Tech Stack:**  
-- Frontend: HTML, CSS, JavaScript  
-- Backend: (mention if used e.g., Node.js/Spring Boot, etc.)  
-- Database: (mention DB if used, e.g., MySQL/MongoDB)
+- Frontend: React, Tailwind CSS  
+- Backend: Java, Spring Boot, Spring Security (JWT)  
+- Database: MySQL  
+- DevOps: Docker, Redis  
 
 **Features**
-- User registration & login  
-- Browse food categories & items  
-- Add to cart & place orders  
-- Responsive UI  
-- Clean full-stack architecture
+- JWT-based authentication system  
+- OAuth2 login (Google, GitHub, LinkedIn)  
+- Secure REST APIs  
+- Scalable backend architecture  
+- Dockerized deployment  
+- Redis caching support  
 
 </details>
+
 
 <details>
 <summary>🎬 Movie Collection API</summary>
