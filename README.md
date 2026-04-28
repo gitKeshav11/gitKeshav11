@@ -152,22 +152,23 @@ A classic **Snake Game** built using **Java Swing**.
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/keshavu2045491"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
-  <a href="https://linkedin.com/in/keshavupadhyayje"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
-  <a href="https://kaggle.com/keshavupadhyayje"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/></a>
-  <a href="https://www.youtube.com/@Keshav_Upadhyay"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/></a>
-  <a href="https://www.hackerrank.com/keshavramramje"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>
-  <a href="https://www.leetcode.com/keshavupadhyayje"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
-</p>
 
+    <a href="https://linkedin.com/in/gitKeshav11"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
 
-<p align="left">
+    
   <a href="https://twitter.com/gitKeshav11"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
-  <a href="https://linkedin.com/in/gitKeshav11"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
+
+    <a href="https://www.leetcode.com/gitKeshav11"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
+
+      <a href="https://www.geeksforgeeks.org/profile/gitkeshav11"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" width="40"/></a>
+
+      <a href="https://www.youtube.com/@gitKeshav11"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/></a>
+
   <a href="https://kaggle.com/gitKeshav11"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/></a>
-  <a href="https://www.youtube.com/@gitKeshav11"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/></a>
+  
   <a href="https://www.hackerrank.com/gitKeshav11"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>
-  <a href="https://www.leetcode.com/gitKeshav11"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
+
+
 </p>
 
 ---
