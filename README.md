@@ -20,7 +20,9 @@ This space is a living record of my learning journey — built <b>one commit at 
 
 ---
 
-## 🧰 Languages and Tools (Skills)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,html,css,js,react,git,github,postman,docker,vscode,idea,redis,linux,maven&perline=20" height="35"/>
+</p>
 
 ## 🧰 Languages and Tools (Skills)
 
