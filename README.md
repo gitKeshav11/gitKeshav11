@@ -152,27 +152,27 @@ A classic **Snake Game** built using **Java Swing**.
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/gitKeshav11">
+  <a href="https://linkedin.com/in/gitKeshav11" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
 
-  <a href="https://twitter.com/gitKeshav11">
+  <a href="https://twitter.com/gitKeshav11" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
   </a>
 
-  <a href="https://www.leetcode.com/gitKeshav11">
+  <a href="https://www.leetcode.com/gitKeshav11" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
   </a>
 
-  <a href="https://www.geeksforgeeks.org/profile/gitkeshav11">
+  <a href="https://www.geeksforgeeks.org/profile/gitkeshav11" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" width="40"/>
   </a>
 
-  <a href="https://www.youtube.com/@gitKeshav11">
+  <a href="https://www.youtube.com/@gitKeshav11" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
   </a>
 
-  <a href="https://kaggle.com/gitKeshav11">
+  <a href="https://kaggle.com/gitKeshav11" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/>
   </a>
 
